@@ -3,4 +3,6 @@ Welcome to your first file in github.
 
 i am editing this file
 
+new lines added
+
 thank you :)
